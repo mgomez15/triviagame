@@ -1,0 +1,24 @@
+h1 {
+    margin: 20px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.container {
+    background-color: white;
+    color: navy;
+    margin: 90px;
+    font-family: 'Caudex', serif;
+}
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq3Fwx5FrVWgkWTd9YlFtY3ImyFakfR67Dvd057TZ-S8wn6IlEnw");
+}
+
+.end-screen {
+    text-align: center;
+}
+
+#newGame {
+    text-align: center;
+}
+
